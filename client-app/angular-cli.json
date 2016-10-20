@@ -16,7 +16,7 @@
       "mobile": false,
       "styles": [
         "../node_modules/designmodo-flat-ui/dist/css/flat-ui.css",
-        "styles.css"
+        "styles.scss"
       ],
       "scripts": [
         "../node_modules/designmodo-flat-ui/dist/js/vendor/jquery.min.js",
@@ -42,7 +42,7 @@
     }
   },
   "defaults": {
-    "styleExt": "css",
+    "styleExt": "scss",
     "prefixInterfaces": false
   }
 }
